@@ -8,5 +8,6 @@ TLDR; Berikut merupakan cara konek vpn BPS pusat dengan memanfaatkan tailscale :
 5. Saat ini browser sudah bisa dipakai untuk langsung konek domain bps seperti community.bps.go.id, fasih-sm.bps.go.id
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/228f0ac5-4a24-4ebf-8313-0d4c4488d34a" />
 
-*Catatan : forticlient tetap bisa digunakan, saat menggunakan forticlient matikan tailscale dan sebaliknya
+*Catatan : forticlient tetap bisa digunakan, saat menggunakan forticlient matikan tailscale dan sebaliknya.
+*Jika ada kendala saat installasi bisa wa personal
 
